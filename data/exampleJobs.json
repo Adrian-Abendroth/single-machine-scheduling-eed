@@ -1,0 +1,44 @@
+{
+    "jobs": [
+        {
+            "jobId": 0,
+            "duration": 4,
+            "deadline": 5
+        },
+        {
+            "jobId": 1,
+            "duration": 2,
+            "deadline": 20
+        },
+        {
+            "jobId": 2,
+            "duration": 3,
+            "deadline": 7
+        },
+        {
+            "jobId": 3,
+            "duration": 7,
+            "deadline": 19
+        },
+        {
+            "jobId": 4,
+            "duration": 7,
+            "deadline": 14
+        },
+        {
+            "jobId": 5,
+            "duration": 2,
+            "deadline": 15
+        },
+        {
+            "jobId": 6,
+            "duration": 8,
+            "deadline": 9
+        },
+        {
+            "jobId": 7,
+            "duration": 3,
+            "deadline": 22
+        }
+    ]
+}
